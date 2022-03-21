@@ -1,4 +1,4 @@
-# 4. Hafta Ödevi
+# E-commerce Web Application
 
 Ürün satışının, kullanıcı kaydının ve girişinin yapıldığı, web uygulaması geliştirilecek.
 
