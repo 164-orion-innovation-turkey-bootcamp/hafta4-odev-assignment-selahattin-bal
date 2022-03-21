@@ -1,8 +1,9 @@
 # E-commerce Web Application
 
 
+![alt text](./src/assets/Screenshot_4.jpg)
 
-!()[./src/assets/Screenshot_4.jpg]
+
 Ürün satışının, kullanıcı kaydının ve girişinin yapıldığı, web uygulaması geliştirilecek.
 
 
