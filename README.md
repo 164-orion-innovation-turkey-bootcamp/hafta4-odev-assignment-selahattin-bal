@@ -1,5 +1,5 @@
 # E-commerce Web Application
-<strong>Web sitesinin kullanıcı deneyimi ve nasıl çalıştığını görmek için lütfen aşağıdaki resme tıklayın.</strong>
+<strong>Web sitesinin kullanıcı deneyimi ve nasıl çalıştığını görmek için lütfen aşağıdaki resme tıklayarak youtube videoma gözatın.</strong>
 
 [![IMAGE ALT TEXT](./src/assets/Screenshot_3.jpg)](https://youtu.be/lRKO49Ako4E "Video Title")
 
