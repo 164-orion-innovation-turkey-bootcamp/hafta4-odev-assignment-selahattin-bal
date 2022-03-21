@@ -1,6 +1,6 @@
 # E-commerce Web Application
 
-![video](https://youtu.be/lRKO49Ako4E "Angular E-Ticaret Web Uygulaması Part-1")
+![video](https://youtu.be/lRKO49Ako4E)
 
 ![alt text](./src/assets/Screenshot_4.jpg)
 
