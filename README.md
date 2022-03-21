@@ -1,6 +1,6 @@
 # E-commerce Web Application
 
-![video](https://youtu.be/lRKO49Ako4E)
+[![IMAGE ALT TEXT](./src/assets/Screenshot_3.jpg)](https://youtu.be/lRKO49Ako4E "Video Title")
 
 ![alt text](./src/assets/Screenshot_4.jpg)
 
