@@ -17,9 +17,9 @@
       - [Prerequisites](#prerequisites)
      
 ## Video
-<strong>Click the picture below for watching video on youtube. You will able see how website is woking.</strong>
+<strong>Click the picture below for watching video on youtube. You will able see how website is working.</strong>
 
-[![IMAGE ALT TEXT](./src/assets/Screenshot_3.jpg)](https://youtu.be/lRKO49Ako4E "Video Title")
+[![IMAGE ALT TEXT](./src/assets/Screenshot_3.jpg)](https://youtu.be/lRKO49Ako4E "Angular E-Commerce Web Application")
 
 
 ## About Project
